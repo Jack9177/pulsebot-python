@@ -1,1 +1,1 @@
-web: gunicorn pulsebot:app
+web: gunicorn main:app
